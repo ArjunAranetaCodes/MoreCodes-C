@@ -9,7 +9,7 @@ Join Us on Youtube! <br/>
 </p>
 
 - - - -
-### [C Array Programming Problems](../Arrays/) <- Click to go to Array Problems
+### [C Array Programming Problems](../Arrays/) <- Click to go to Array Problems 
 
 1. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-C/blob/master/Arrays/problem1.c" target="_blank">Write a program that outputs the length of array.</a>
 2. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-C/blob/master/Arrays/problem2.c" target="_blank">Write a program that gets the index of an element in an array.</a>
